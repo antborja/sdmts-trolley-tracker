@@ -15,9 +15,10 @@ The objective is to create a PCB board that connects to the OneBusAway RESTful A
 
 ## Phase 1: Ideation
 
-For a complete map of San Diego's trolley system, there is a total of **62 stations**.  
-*UC San Diego Blue Line:* 32 stations (22 unique, 10 shared)  
-*East County Connector Copper Line*: 4 stations (3 unique, 1 shared)  
-*Green Line*: 24 stations (15 unique, 9 shared)  
-*Orange Line*: 17 stations (9 unique, 8 shared)  
+For a complete map of San Diego's trolley system, there is a total of **62 stations** across 4 distinct transit lines: Blue, Copper, Green, and Orange. Each transit line has a specific amount of unique and shared stations (see below), which will affect the physical layout of the PCB board and LED designation. 
+
+* *UC San Diego Blue Line:* 32 stations (22 unique, 10 shared)  
+* *East County Connector Copper Line*: 4 stations (3 unique, 1 shared)  
+* *Green Line*: 24 stations (15 unique, 9 shared)  
+* *Orange Line*: 17 stations (9 unique, 8 shared)  
 

@@ -9,7 +9,7 @@ The SDMTS Trolley Tracker Board is an in-progress PCB design that tracks the sta
 * **Software:** Altium Designer, VS Code, GitHub
 * **Languages:** TBD
 
-# Objective
+### Objective
 
 The objective is to create a PCB board that connects to the OneBusAway RESTful API, runs computations to determine the proximity of each trolley to nearby stations, and illuminates a station's LED (located on the board) once a trolley is within a 100m radius of the station.
 
